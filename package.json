@@ -1,0 +1,11 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Sue Ann Ioanis",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-util": "3.0.4",
+    "gulp-sass": "2.0.3"
+  }
+}
